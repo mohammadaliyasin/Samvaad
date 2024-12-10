@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1001278230716",
+    "project_id": "samvaad-d280b",
+    "storage_bucket": "samvaad-d280b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001278230716:android:32b86fe029763b77dd80b9",
+        "android_client_info": {
+          "package_name": "com.example.samvaad_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1r1n2grJHNhadq-lVPZFkfoh9DPxR8Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
